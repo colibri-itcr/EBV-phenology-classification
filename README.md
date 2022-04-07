@@ -1,5 +1,5 @@
 # EBV-phenology-classification
-# Using classification algorithms to extract phenology data from unstructured descriptions
+### Using classification algorithms to extract phenology data from unstructured descriptions
 
 Essential Biodiversity Variables (EBVs) make it possible to evaluate and monitor the state of biodiversity over time and at different spatial scales. Its development is led by the Group on Earth Observations Biodiversity Observation Network (GEO BON) to harmonize, consolidate, and standardize biodiversity data from varied biodiversity sources. This document presents a mechanism to get baseline data to feed the Species Traits Variable Phenology or other biodiversity indicators by extracting species characters and structure names from morphological descriptions of specimens and classifying the descriptions using machine learning (ML).
 
